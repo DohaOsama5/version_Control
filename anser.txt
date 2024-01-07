@@ -1,0 +1,3 @@
+git branch -d mydev >> local branch
+
+git push origin:main>> remote branch
