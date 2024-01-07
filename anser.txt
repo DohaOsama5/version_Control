@@ -1,3 +1,6 @@
 git branch -d mydev >> local branch
-
 git push origin:main>> remote branch
+
+ git tag  >> list tags 
+ git tag -d v1.0  >> delete tag local
+ git push origin --delete v1.0 >>delete tag remote
